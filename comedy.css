@@ -1,0 +1,122 @@
+body {
+    background-color: rgb(46, 46, 46);
+    font-family:  monospace;
+    color: white
+}
+header a{
+    font-size: 50px;
+    font-family: monospace;
+    text-decoration: 0;
+    color: #F80012;
+    border: 5px solid #A60000;
+    border-radius: 7px;
+}
+.link-nav{
+    
+    margin-top: 70px;
+    padding: 20px 30px 20px 30px;
+    text-decoration: 0;
+    font-size: 30px;
+    font-family: Andale Mono, monospace;
+    color:whitesmoke;
+    border: 7px#A60000 solid;
+    border-radius: 20px;
+}
+ul{
+    font-size: 40px;
+}
+h1{
+    
+    text-align: center;
+    
+    
+}
+p{
+    text-align: center;
+}
+header img{
+    width: 500px;
+    height: 200px;
+}
+header p{
+    text-align: center;
+}
+.navi{
+    text-align: center;
+}
+.about{
+    border-top: 5px red solid;
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+.janr{
+    border-bottom: 5px red solid;
+    font-size: 50px;
+    
+}
+p{
+    font-size: 30px;
+}
+.image{
+    width: 850px;
+    height:700px;
+    text-align: center;
+}
+.image2{
+    width: 800px;
+    height:400px;
+}
+.sites{
+    
+    padding: 20px 20px 20px 100px;
+    text-decoration: 0;
+    font-size: 50px;
+    font-family: Andale Mono, monospace;
+    color:#A60000;
+    
+}
+footer{
+    background-image: linear-gradient(rgb(46, 46, 46), #A60000, red);
+}
+a:hover {
+    color: white;
+    background-color: red;
+    opacity: 0.5;
+    
+    border: 5px whitesmoke double;
+    border-radius: 20px;
+}
+
+a:focus {
+    color: white;
+    background-color: red;
+    opacity: 0.5;
+    margin: 20 20 20 20;
+    border: 5px whitesmoke double;
+    border-radius: 20px;
+    box-shadow: 10px 10px 2px 0 red;
+}
+img:hover {
+    
+    opacity: 0.5;
+    margin: 20 20 20 20;
+    border: 5px whitesmoke double;
+    border-radius: 20px;
+    
+}
+
+section{
+    
+    width: 500px;
+}
+.about_ser{
+    font-size: 20px;
+}
+aside{
+    float: right;
+    
+}
+div{
+    display: flex;
+    justify-content: center;
+}
