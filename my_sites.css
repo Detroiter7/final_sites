@@ -1,0 +1,46 @@
+
+body {
+    background-color: rgb(46, 46, 46);
+    font-family: Bradley Hand, cursive;
+    color: white
+}
+header a{
+    font-size: 50px;
+    font-family: monospace;
+    text-decoration: 0;
+    color: #F80012;
+    border: 5px solid #A60000;
+    border-radius: 7px;
+}
+.link-nav{
+    margin-left: 200px;
+    margin-top: 50px;
+    padding: 20px 30px 20px 30px;
+    text-decoration: 0;
+    font-size: 30px;
+    font-family: Andale Mono, monospace;
+    color:whitesmoke;
+}
+ul{
+    font-size: 30px;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    border-top: 5px red solid;
+}
+p{
+    font-size: 20px;
+}
+.text-big{
+    font-size: 30px;
+    color: red;
+}
+a{
+    font-size: 20px;
+    text-decoration: 0;
+    color: #F80012;
+    border: 5px solid #A60000;
+    border-radius: 7px;
+}   
+}
