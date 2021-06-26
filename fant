@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <title>netflix serials</title>
+    <link rel="stylesheet" href="fant.css"/>
+  </head>
+  <body>
+    <header>
+    <p>
+      <img src="https://pngimg.com/uploads/netflix/netflix_PNG25.png" href=""/>
+    </p>
+    </header>
+    <main>
+        <p class="navi">
+        <h1 class="janr">Выберите жанр</h1>
+        <div class="navig">
+      <nav>
+        <a class="link-nav" href="mysites.html"><b>комедийные</b></a>
+        <a class="link-nav" href="fant.html"><b>фентэзи</b></a>
+        <a class="link-nav" href="about_school.html"><b>про школу</b></a>
+      </nav>
+        </div>
+        </p>
+      <h1 class="about">Популярные сериалы фэнтези на Netflix<br/></h1>
+      <div>
+          <iframe width="500" height="300" src="https://www.youtube.com/embed/qLd7BvKsUzQ" title="YouTube video player" frameborder="0"></iframe>
+          
+        <p class="about_ser"><b>Люцифер</b> -  Заскучавший повелитель подземного царства спускается на Землю и открывает собственный ночной клуб, но внезапное убийство сталкивает его с привлекательной детективом Декер. Это знакомство меняет планы Люцифера, и теперь он совсем не против быть консультантом полиции, помогая искать настоящих преступников.</p>
+          
+      <img src="https://cdn.lyucifer.tv/uploads/2019/07/kogda-zhdat-5-sezon-lyucifera.jpg" style="width: 500px; height: 300px"/>
+
+      </div>
+       <div>
+          <iframe width="500" height="300" src="https://www.youtube.com/embed/PX6KNzyQfZM"  title="stranger" frameborder="0"></iframe>
+          
+        <p class="about_ser"><b>Очень странные дела</b> - В начале 90х в небольшом американском городке при таинственных обстоятельствах исчезает подросток. Местный шериф Хоппер вместе с лучшим другом исчезнувшего Майком начинают расследование, и вскоре понимают – в деле замешаны люди из таинственной лаборатории в лесу…</p>
+          
+      <img src="https://mcdn.tvzvezda.ru/storage/news_other_images/2020/07/20/3ea9d54b6d3a4b4880e4c28f0671d0bd.jpg" style="width: 500px; height: 300px"/>
+
+      </div>
+      
+      <div>
+          <iframe width="500" height="300" src="https://www.youtube.com/embed/YrjHcYqe31g" title="YouTube video player" frameborder="0"></iframe>
+          
+        <p class="about_ser"><b>Локи</b> - "Локи" - сводный брат Тора. По сюжету последних Мстителей, он погиб, однако представленный фантастический, многосерийный кинофильм раскроет нам истинную тайну. На самом деле, супергерой Марвел переместился во времени. Преимущественно оказавшись непосредственно на территории пространства прошлых лет, у него появляется возможность всё поменять, но к сожалению последствия могут стать навсегда необратимыми по определению. Поэтому осторожность здесь точно не помешает.</p>
+          
+      <img src="https://www.soyuz.ru/public/uploads/files/2/7467227/202106011325315324984d9d.jpg" style="width: 500px; height: 300px"/>
+      </div>
+
+
+
+    </main>
+    <footer>
+      
+      <p>Сайт-Netflix serials<br/>
+      Создатель сайта-Быкова Анна </p>
+      <p>
+      <img src="https://mainstyles.ru/uploads/Netflix-001.gif" style="width:200px; height: 200px"/>
+      </p>
+    </footer>
+  </body>
+</html>
