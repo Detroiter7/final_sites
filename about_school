@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <title>netflix serials</title>
+    <link rel="stylesheet" href="about_school.css"/>
+  </head>
+  <body>
+    <header>
+    <p>
+      <img src="https://pngimg.com/uploads/netflix/netflix_PNG25.png" href=""/>
+    </p>
+    </header>
+    <main>
+        <p class="navi">
+        <h1 class="janr">Выберите жанр</h1>
+        <div>
+      <nav>
+        <a class="link-nav" href="comedy.html"><b>комедийные</b></a>
+        <a class="link-nav" href="about_school.html"><b>фентэзи</b></a>
+        <a class="link-nav" href="fant.html"><b>про школу</b></a>
+      </nav>
+        </div>
+        </p>
+      <h1 class="about">Популярные сериалы про школу на Netflix<br/></h1>
+      <div>
+          <iframe width="500" height="300" src="https://www.youtube.com/embed/QNwhAdrdwp0" title="YouTube video player" frameborder="0"></iframe>
+          
+        <p class="about_ser"><b>Элита</b> -  Герои сериала «Элита», трое подростков из простых семей по воле судьбы попадают в самую элитную школу Испании, — «Лас Энчинас», где до сих пор учились только дети городской элиты, яркие представители «золотой молодежи». Кристиану, Наде и Самуэлю приходится нелегко, — «мажоры» сразу настраиваются против новичков, а вскоре ситуация обостряется как никогда. В борьбе за власть в ход идут любые средства, что приводит в результате к серьезной трагедии.</p>
+          
+      <img src="https://www.kino-teatr.ru/movie/poster/140877/pv_101309.jpg" style="width: 500px; height: 300px"/>
+
+      </div>
+       <div>
+          <iframe width="500" height="300" src="https://www.youtube.com/embed/ZhwJoLWn11Q" title="YouTube video player" frameborder="0"></iframe>
+         
+        <p class="about_ser"><b>Судьба: сага винкс</b> - Невероятная история телесериала, представленного зрителям в фантастическом жанре. Здесь речь пойдет о девчонках, которые полны молодостью и удивительных желаний добиться грандиозных успехов в будущей специальности добрых феи. Обучение в специальной школе, дается не легко. Приходится адаптироваться к разным обстоятельствам и помимо всего стараться обустроить свое существование во взаимоотношениях с парнями.</p>
+          
+      <img src="https://cdn.igromania.ru/mnt/news/c/1/b/5/8/3/101699/69ed435586204d12_1920xH.jpg" style="width: 500px; height: 300px"/>
+
+      </div>
+      
+      <div>
+          <iframe width="500" height="300" src="https://www.youtube.com/embed/QHLe1tpHfW4" title="YouTube video player" frameborder="0"></iframe>
+          
+        <p class="about_ser"><b>Половое воспитание</b> - Жизнь подростков полна проблем, поделиться которыми порой не с кем... Юным героям молодежного трагикомического сериала «Половое воспитание» в этом повезло, — один из одноклассников, Отис Милберн, открыл нелегальный кабинет психологической и интимной помощи, где, пользуясь знаниями, полученными от сексолога-мамы, дает дельные советы ребятам и девушкам! Правда, у Отиса хватает и своих проблем, а знания, по большей части, чисто теоретические.</p>
+          
+      <img src="https://www.okino.ua/media/var/article/2020/04/04/sex-education_1.jpg" style="width: 500px; height: 300px"/>
+      </div>
+
+
+
+    </main>
+    <footer>
+      
+      <p>Сайт-Netflix serials<br/>
+      Создатель сайта-Быкова Анна </p>
+      <p>
+      <img src="https://mainstyles.ru/uploads/Netflix-001.gif" style="width:200px; height: 200px"/>
+      </p>
+    </footer>
+  </body>
+</html>
